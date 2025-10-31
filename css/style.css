@@ -351,6 +351,21 @@ img {
 
 }
 
+@media (max-width: 349px) {
+    .campo {
+        display: block;
+    }
+
+    .campo__field {
+        padding: 2rem 0;
+    }
+
+    .center_boton {
+        width: 100%;
+    }
+
+}
+
 .campo__field {
     flex: 1rem;
     border: 1px solid var(--gris);
