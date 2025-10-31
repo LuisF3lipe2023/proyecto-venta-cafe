@@ -351,7 +351,7 @@ img {
 
 }
 
-@media (max-width: 349px) {
+@media (max-width: 420px) {
     .campo {
         display: block;
     }
